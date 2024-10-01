@@ -9,6 +9,9 @@ function App() {
   return (
     <>
       <h1>atefe</h1>
+    <h1>
+      atiye
+    </h1>
     </>
   )
 }
